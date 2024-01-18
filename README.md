@@ -5,7 +5,7 @@ one click in the context menu.
 
 ## How to use
 
-1. Install the extension from `change me to a real link latter`.
+1. Install the extension from [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/savetogooglephotos/).
 2. Right-click on an image and select `Save to Google Photos`.
 3. Finish Google OAuth2 authentication in the popup window.
 
